@@ -3,12 +3,14 @@
 <div align=center>
 <img src="https://imgur.com/HfinxcL.png">
 <a href="https://ahnafs-portfolio.netlify.app/">Live Website</a>
-</div>
   
-<br />
+  <br>
   <p>
     This Website talks about my personal achivments and history.
   </p>
+</div>
+  
+
  
  <br />
  
